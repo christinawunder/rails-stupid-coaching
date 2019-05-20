@@ -1,3 +1,18 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.q_a {
+  border-left-style: groove;
+  border-color: #DDDDDD;
+  border-width: 5px;
+  padding: 7px 7px 3px 10px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.a {
+  background-color: #FFFFE1;
+}
